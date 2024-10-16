@@ -1,1 +1,2 @@
-hi
+hi  preg_quote 
+Lorem
